@@ -8,7 +8,10 @@ public class UserServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserServiceApplication.class, args);
-		System.out.println("Pratic Changes");
+		System.out.println("Pratik Changes");
+		
+		System.out.println("apllication runnung backend master");
+		
 	}
 
 }

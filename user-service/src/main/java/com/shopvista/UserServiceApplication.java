@@ -11,10 +11,11 @@ public class UserServiceApplication {
 		SpringApplication.run(UserServiceApplication.class, args);
 
 		System.out.println("user-service _ Bhagyashri");
-System.out.println("user-service _ Pavan");
+System.out.println("user-service _ PavanChanges");
           System.out.println("Hello from Shopvista");
           System.out.println("Changes from ganesh");
- System.out.println("Changes from Pavan");
+ System.out.println(" new Changes from Pavan");
+
 
 	}
 

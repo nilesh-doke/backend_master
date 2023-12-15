@@ -12,6 +12,7 @@ public class UserServiceApplication {
 		System.out.println("user-service _ Bhagyashri");
 
           System.out.println("Hello from Shopvista");
+          System.out.println("Changes from ganesh");
 
 	}
 

@@ -17,16 +17,28 @@ System.out.println("user-service _ PavanChanges");
 
 
           
+        
+
+
+          
           int x=10;
           if(10%2==0)
         	  System.out.println("Given no is even");
+
 
           System.out.println("Changes from ganesh");
  System.out.println(" new Changes from Pavan");
 
 
 		  System.out.println("user-service _ Shital");
+
+		  
+		  int x=10;
+          if(x%2==0)
+        	  System.out.println("Given no is even");
+
 }
+
 
 
 	}

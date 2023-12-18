@@ -9,6 +9,7 @@ public class CatalogServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CatalogServiceApplication.class, args);
 		System.out.println("new Service");
+		System.out.println("chenges by pavan in catlog");
 	}
 
 }
